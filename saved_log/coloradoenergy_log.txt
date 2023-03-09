@@ -1,0 +1,14 @@
+03/09/2023 00:21:23 - INFO - PageModifier -   Reading https://www.coloradoenergy.co.uk/terms/
+03/09/2023 00:21:23 - INFO - PageModifier -   Deleting '1' 'div' content
+03/09/2023 00:21:23 - INFO - PageModifier -   1. Deleting the tag: <div class="w-container"><h3>23. Invalidity<br/></h3><p>If any part of this Contract is declared invalid or is void or unenforceable, the validity of the rest of the Contract will not be affected.<br/></p></div>
+
+03/09/2023 00:21:23 - INFO - PageModifier -   Replacing <p> tag with <span> tag
+
+03/09/2023 00:21:23 - INFO - PageModifier -   Replacing old text with new text
+ Old text: consist of a monthly
+ New text: consist of a quaterly
+
+03/09/2023 00:21:23 - INFO - PageModifier -   Replacing old text with new text
+ Old text: five days’ notice
+ New text: ten days’ notice
+

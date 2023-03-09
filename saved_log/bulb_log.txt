@@ -1,0 +1,23 @@
+03/09/2023 00:21:22 - INFO - PageModifier -   Reading https://www.bulb.co.uk/terms/
+03/09/2023 00:21:23 - INFO - PageModifier -   Deleting '1' 'li' content
+03/09/2023 00:21:23 - INFO - PageModifier -   1. Deleting the tag: <li><p class="Paragraph__MaxWidthParagraph-sc-xwalht-0 gBXktg">If your smart meter is operating in prepayment mode and you'd like us to switch to credit mode, we may need to carry out a credit check before we reconfigure your meter.</p></li>
+
+03/09/2023 00:21:23 - INFO - PageModifier -   Replacing <h3> tag with <p> tag
+
+03/09/2023 00:21:23 - INFO - PageModifier -   Replacing <h1> tag with <p> tag
+
+03/09/2023 00:21:23 - INFO - PageModifier -   Replacing old text with new text
+ Old text: over 18
+ New text: over 16
+
+03/09/2023 00:21:23 - INFO - PageModifier -   Replacing old text with new text
+ Old text: We will not charge you for using any of the services described above.
+ New text: We will charge you for using any of the services described above.
+
+03/09/2023 00:21:23 - INFO - PageModifier -   Modifying old url with new url
+ Old url: www.bulb.co.uk/help
+ New text: http://www.twitter.com
+
+03/09/2023 00:21:23 - INFO - PageModifier -   Adding new html content
+03/09/2023 00:21:23 - INFO - PageModifier -   HTML Content before New Content: <li><p class="Paragraph__MaxWidthParagraph-sc-xwalht-0 gBXktg">We will carry any debit or credit balance forward to the next month's bill.</p></li>
+03/09/2023 00:21:23 - INFO - PageModifier -   New HTML Content: <li>You may be charged for contacting us.</li>
